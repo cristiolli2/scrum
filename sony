@@ -1,0 +1,19 @@
+# scrum
+A escolha da abordagem ágil foi motivada por alguns fatores específicos, sendo eles:
+1)	Complexidade e necessidade de flexibilidade: O scrum oferece flexibilidade para ajustar os processos conforme o projeto avança, o que é ideal para projetos inovadores e complexos, onde requisitos podem mudar e a adaptação rápida é crucial.
+2)	Necessidade de colaboração eficaz: A equipe precisava de um processo que favorecesse a colaboração, especialmente com parceiros como a Sony no Japão. 
+3)	Desenvolvimento iterativo e incremental: O projeto envolvia algoritmos avançados que precisavam ser testados e ajustados continuamente. O desenvolvimento ágil permite ciclos curtos de desenvolvimento e testes.
+Em contraste, a metodologia tradicional (como o modelo em cascata) teria sido menos adequada porque, em projetos mais dinâmicos e complexos, ela pode resultar em uma abordagem mais rígida, com grandes blocos de trabalho e pouca flexibilidade para ajustes rápidos.
+O scrum foi escolhido como framework ágil por algumas razões chave:
+4)	Simplicidade e leveza: A equipe procurava uma metodologia que fosse fácil de entender e implementar, sem um processo excessivamente burocrático. 
+5)	Foco em equipes autônomas e auto-organizadas: O scrum enfatiza a autonomia da equipe, algo que é importante para um projeto técnico complexo. Com uma abordagem ágil, a equipe tem mais liberdade para resolver problemas de forma criativa e colaborar.
+6)	Envolvimento constante e comunicação com o cliente (ou parceiro, como no caso da Sony): O scrum promove interações frequentes com stakeholders, garantindo que a equipe esteja sempre alinhada com as expectativas e necessidades do projeto. 
+7)	Iterações rápidas e entregas contínuas: O scrum promove ciclos de desenvolvimento curtos (sprints), o que permitiu à equipe testar rapidamente suas soluções e ajustar os algoritmos conforme necessário, promovendo a melhoria contínua.
+
+O resultado final era inovador? Por quê?
+Sim, o resultado final foi inovador, e isso é evidente por várias razões:
+8)	Tecnologia avançada de GPU para melhorar a qualidade de vídeo: A equipe estava desenvolvendo uma arquitetura única de GPU, que exige inovação tanto no lado do hardware quanto no software. 
+
+O que eu faria diferente:
+Embora a experiência descrita tenha sido bem-sucedida, existem algumas áreas onde melhorias poderiam ser feitas:
+9)	Documentação e acompanhamento das mudanças de processo: Embora a equipe tenha feito ajustes no processo de scrum, poderia ser interessante ter um registro mais claro das mudanças realizadas durante a implementação e como elas impactaram a eficiência da equipe.
